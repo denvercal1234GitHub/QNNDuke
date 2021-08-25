@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Home page"
+date: 2021-08-25 
+
 ---
 
 <!DOCTYPE html>
